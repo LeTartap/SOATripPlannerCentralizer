@@ -7,7 +7,7 @@ This central repository provides an overview of the entire system and links to t
 ![SequenceDiagramOfTheSystem](./sequencediagramUML.png)
 
 
-
+# [Full Report PDF](./SOAFINALREPORT.pdf)
 ---
 
 ## Abstract
@@ -63,9 +63,10 @@ An asynchronous service that listens for messages on the ActiveMQ queue. When a 
 -   **Backend:** Node.js with Express.js (for REST APIs)
 -   **Database:** MongoDB
 -   **Message Broker:** Apache ActiveMQ
--   **Containerization:** Docker & Docker Compose
+-   **Containerization:** Docker & Docker Compose, Kuberenetes Orchestration
 
 ---
+![K8 Orchestration](./k8cluster.png)
 
 ## Authors
 
