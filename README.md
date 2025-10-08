@@ -4,6 +4,10 @@ This repository is the central hub for the **Service-Oriented Trip Planner**, a 
 
 This central repository provides an overview of the entire system and links to the individual repositories for each microservice.
 
+![SequenceDiagramOfTheSystem](./sequencediagramUML.png)
+
+
+
 ---
 
 ## Abstract
